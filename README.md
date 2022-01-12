@@ -18,3 +18,5 @@ http://archive.ubuntukylin.com/ubuntukylin/pool/partner/weixin_2.1.1_amd64.deb
 root用户使用前需要修改`vim /usr/share/applications/weixin.desktop`增加--no-sandbox：
 
 ![image-20220104142528064](README/image-20220104142528064.png)
+
+**其他内核版本的，arm版本的可参考**：https://github.com/lovechoudoufu/wechat_for_linux/issues/1
