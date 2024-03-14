@@ -1,5 +1,27 @@
 # wechat_for_linux
 
+## 更新
+
+好好好，再也不骂腾讯和微信了，终于出了好用的官方版本微信了。
+
+![image-20240314113430708](README/image-20240314113430708.png)
+
+
+
+安装包丢在Releases中了，一共三个版本：
+
+wechat-beta_1.0.0.145_amd64.deb
+
+wechat-beta_1.0.0.150_arm64.deb
+
+wechat-beta_1.0.1.212_loongarch64.deb
+
+
+
+## 我可没骂过腾讯和微信
+
+=================我是分割线============================
+
 `我只能说腾讯的产品都是垃圾，linux版破微信就web套壳还要搞系统限制`
 
 wechat_for_linux；weixin_for_linux；
